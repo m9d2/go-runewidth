@@ -3,7 +3,7 @@ package runewidth
 import (
 	"os"
 
-	"github/m9d2/uniseg"
+	"github.com/m9d2/uniseg"
 )
 
 //go:generate go run script/generate.go
